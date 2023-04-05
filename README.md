@@ -30,21 +30,21 @@ config=pdfkit.configuration(wkhtmltopdf=r"D:\software\wkhtmltopdf\bin\wkhtmltopd
 
 - 输入专栏名字 获取每篇文章链接
 
-  ![](https://ws1.sinaimg.cn/large/ecb0a9c3gy1fu53ebs60uj20it0bet9p.jpg)
+  ![](./img/ecb0a9c3gy1fu53ebs60uj20it0bet9p.jpg)
 
 - 获取文章详情 保存为`html`文件
 
-  ![](https://ws1.sinaimg.cn/large/ecb0a9c3gy1fu53fdtfi1j20gq06v0sr.jpg)
+  ![](./img/ecb0a9c3gy1fu53fdtfi1j20gq06v0sr.jpg)
 
-  ![](https://ws1.sinaimg.cn/large/ecb0a9c3gy1fu53g48wu0j20jt08s0u1.jpg)
+  ![](./img/ecb0a9c3gy1fu53g48wu0j20jt08s0u1.jpg)
 
 - 生成`pdf`
 
-  ![](https://ws1.sinaimg.cn/large/ecb0a9c3gy1fu53d52zjpj20hu0eeq34.jpg)
+  ![](./img/ecb0a9c3gy1fu53d52zjpj20hu0eeq34.jpg)
 
 ---
 
 ## TODO
 
-* [ ] 速度太慢了，要搞快点。
+~~* [ ] 速度太慢了，要搞快点。~~
 
